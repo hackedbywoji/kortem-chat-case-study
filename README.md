@@ -1,8 +1,8 @@
-# Meskify: a WhatsApp booking assistant for appointment-based businesses
+# Kortem Chat: a WhatsApp booking assistant for appointment-based businesses
 
 *English | [Español](README.es.md)*
 
-A case study of Meskify, an AI assistant that takes care of appointments over WhatsApp for businesses that run on their calendar. A team project built by three of us; this repo covers the problem, what the product does and my part in it. The source code is private and stays private.
+A case study of Kortem Chat, an AI assistant that takes care of appointments over WhatsApp for businesses that run on their calendar. A team project built by three of us; this repo covers the problem, what the product does and my part in it. The source code is private and stays private.
 
 ## The problem
 
@@ -10,7 +10,7 @@ Clinics, physiotherapists, spas, hair salons and beauty centres run on their cal
 
 ## What it does
 
-Customers write over WhatsApp. Meskify replies, understands what they need and takes care of the appointment.
+Customers write over WhatsApp. Kortem Chat replies, understands what they need and takes care of the appointment.
 
 - Books, cancels and changes appointments.
 - Sends appointment reminders.
