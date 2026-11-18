@@ -1,8 +1,8 @@
-# Meskify: un asistente de reservas por WhatsApp para negocios con agenda
+# Kortem Chat: un asistente de reservas por WhatsApp para negocios con agenda
 
 *Español | [English](README.md)*
 
-Caso de estudio de Meskify, un asistente de IA que se ocupa de las citas por WhatsApp para negocios que viven de su agenda. Un proyecto de equipo entre tres; este repo cuenta el problema, lo que hace el producto y mi parte. El código fuente es privado y seguirá siéndolo.
+Caso de estudio de Kortem Chat, un asistente de IA que se ocupa de las citas por WhatsApp para negocios que viven de su agenda. Un proyecto de equipo entre tres; este repo cuenta el problema, lo que hace el producto y mi parte. El código fuente es privado y seguirá siéndolo.
 
 ## El problema
 
@@ -10,7 +10,7 @@ Clínicas, fisioterapeutas, spas, peluquerías y centros de estética funcionan 
 
 ## Qué hace
 
-El cliente escribe por WhatsApp. Meskify responde, entiende lo que necesita y se ocupa de la cita.
+El cliente escribe por WhatsApp. Kortem Chat responde, entiende lo que necesita y se ocupa de la cita.
 
 - Reserva, cancela y modifica citas.
 - Envía recordatorios de la cita.
